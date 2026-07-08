@@ -1,2 +1,2 @@
 # Liasis
-A compiled programming language featuring Python-like syntax, native Rust/LLVM execution speed, raw memory accessors, and bare-metal x86 system target compilation.
+A high-level, indent-based programming language transpiling to safe Rust. Designed for lower RAM and CPU footprint compared to Python, achieving significantly faster execution speeds by compiling directly to native LLVM machine code without VM overhead or runtime garbage collection.
